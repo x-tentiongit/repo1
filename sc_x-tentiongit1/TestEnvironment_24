@@ -1,0 +1,10 @@
+<emds.epi.decl.modell.TestEnvironment id="1">
+  <name>test_environment</name>
+  <processSenarioID>abd00562-cc31-42ad-9d25-5cedad583d45</processSenarioID>
+  <ID>24</ID>
+  <revisionNumber>1765991208680</revisionNumber>
+  <groupId>-1</groupId>
+  <autoDeleteFlag>false</autoDeleteFlag>
+  <importRevision>0</importRevision>
+  <testSettings id="2"/>
+</emds.epi.decl.modell.TestEnvironment>

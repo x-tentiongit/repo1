@@ -1,0 +1,10 @@
+<Group id="1">
+  <name>Groups</name>
+  <processSenarioID>abd00562-cc31-42ad-9d25-5cedad583d45</processSenarioID>
+  <ID>23</ID>
+  <revisionNumber>1765991208002</revisionNumber>
+  <groupId>17</groupId>
+  <autoDeleteFlag>false</autoDeleteFlag>
+  <importRevision>0</importRevision>
+  <memberTypeName>SecGroup</memberTypeName>
+</Group>
